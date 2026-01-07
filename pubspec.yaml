@@ -36,6 +36,17 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_screenutil: ^5.9.3
 
+  query_07_01_2025:
+    git:
+      url: https://github.com/Zehsuz/mini_query.git
+      ref: session-2
+
+  ui_kit_07_01_2026:
+    git:
+      url: https://github.com/Zehsuz/mini_champion_ui_kit
+      ref: master
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
